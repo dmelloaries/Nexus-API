@@ -36,9 +36,7 @@
 | [pipeline/generate_api_call.py](pipeline/generate_api_call.py) |  **Enhanced** | Improved prompt with formatted schema     |
 | [llm/gemini_client.py](llm/gemini_client.py)                   |  Working      | Gemini API client with JSON mode          |
 | [main.py](main.py)                                             |  Working      | Entry point                               |
-| [test_system.py](test_system.py)                               |  **New**      | System tests                              |
-| [validate_requirements.py](validate_requirements.py)           |  **New**      | Comprehensive validation                  |
-| [test_edge_cases.py](test_edge_cases.py)                       |  **New**      | Edge case testing                         |
+
 
 
 
@@ -70,8 +68,7 @@ InureAI/
 ├── pipeline/
 │   └── generate_api_call.py           # Main API generation (ENHANCED)
 ├── main.py                            # Entry point
-├── test_system.py                     # System tests
-└── validate_requirements.py           # Comprehensive validation
+
 ```
 
 ---
