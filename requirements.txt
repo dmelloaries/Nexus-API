@@ -1,0 +1,4 @@
+neo4j
+google-genai
+python-dotenv
+pdfplumber
